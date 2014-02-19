@@ -6,9 +6,9 @@
 	<name>TinySound</name>
 	<description>Simple library for playing sounds and music in Java - http://finnkuusisto.github.com/TinySound</description>
 
-	<groupId>kuusisto.tinysound</groupId>
-	<version>1.1.1</version>
+	<groupId>kuusisto</groupId>
 	<artifactId>tinysound</artifactId>
+	<version>1.1.1</version>
 
 	<packaging>jar</packaging>
 
